@@ -1,4 +1,4 @@
-My Name is Kelechi Japhet DevOps Engineer and AWS Solutions Architect.
+My Name is Kelechi Japhet.
 
 I am a DevOps Engineer and a Certified AWS Solutions Architect SAA-CO2 Cloud Computing and Linux System Administrator. I have a comprehensive understanding of AWS services and technologies. General cloud computing, setting up, configuring and maintaining servers. I have the ability to build secure and robust solutions using architectural design principles based on customer requirements. I can strategically design well-architected distributed systems that are scalable, resilient, efficient, and fault-tolerant.
 I effectively work with DevOps tools such as Jenkins, Docker, Kubernetes, Git, Terraform, Ancible, Puppet and Nagios. I Build, Deploy, Manage and Monitor CI/CD pipelines.
